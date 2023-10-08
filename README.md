@@ -12,7 +12,7 @@ Una mirada minimalista de MPV, que otorga un aspecto accesible mientras obtienes
 Ejecuta el archivo `instalar.sh`.
 
 ### Instalación manual (Linux)
-Mueve los todos archivos a
+Mueve los archivos a
 ```
 $HOME/.config/mpv/
 ```
